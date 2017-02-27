@@ -1,0 +1,13 @@
+<level>
+  <entity type="player" x="234" y="143" />
+  <entity type="obstacle2" x="380" y="61" />
+  <entity type="obstacle2" x="284" y="55" />
+  <entity type="obstacle2" x="186" y="49" />
+  <entity type="obstacle2" x="112" y="121" />
+  <entity type="obstacle2" x="118" y="197" />
+  <entity type="obstacle2" x="208" y="235" />
+  <entity type="obstacle2" x="304" y="241" />
+  <entity type="obstacle2" x="408" y="227" />
+  <entity type="obstacle2" x="432" y="137" />
+  <entity type="finish" x="30" y="23" />
+</level>

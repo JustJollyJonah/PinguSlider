@@ -1,0 +1,7 @@
+<level>
+  <entity type="finish" x="490" y="250" />
+  <entity type="obstacle1" x="260" y="130" vx="4" vy="0" />
+  <entity type="obstacle1" x="100" y="100" vx="0" vy="4" />
+  <entity type="obstacle2" x="260" y="0" />
+  <entity type="player" x="0" y="0" />
+</level>
